@@ -17,3 +17,5 @@ Environmental Challenges: The landscape is filled with obstacles, traps, and are
 Power-Ups and Weapons: Scattered throughout the map are various power-ups and weapons that can turn the tide in your favor. From limited-time speed boosts to makeshift weapons like a bat or a crowbar, these items are crucial for surviving the ever-increasing waves of enemies. Discover and use these strategically, but remember that resources are scarce, and using them wisely could mean the difference between life and death.
 
 Day-Night Cycle and Time Pressure: Although the game is set in a seemingly endless night, time still progresses, and your actions during each segment of the night have consequences. The game features a day-night cycle where players can find temporary safety during the dawn but must be prepared for even fiercer and more numerous zombies when the night returns. Make use of every second of twilight to prepare for the next cycle of darknes
+
+https://www.youtube.com/watch?v=eyVf8bZX7so
