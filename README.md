@@ -18,4 +18,6 @@ Power-Ups and Weapons: Scattered throughout the map are various power-ups and we
 
 Day-Night Cycle and Time Pressure: Although the game is set in a seemingly endless night, time still progresses, and your actions during each segment of the night have consequences. The game features a day-night cycle where players can find temporary safety during the dawn but must be prepared for even fiercer and more numerous zombies when the night returns. Make use of every second of twilight to prepare for the next cycle of darknes
 
-https://www.youtube.com/watch?v=eyVf8bZX7so
+[![Night Survivor Gameplay](https://path-to-your-thumbnail-image)](https://www.youtube.com/watch?v=eyVf8bZX7so)
+
+Click the image above to watch the gameplay video!
